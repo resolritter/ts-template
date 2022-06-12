@@ -1,0 +1,12 @@
+{
+  "name": "name",
+  "version": "0.0.0",
+  "author": "resolritter",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@resolritter/tsc-files": "^1.1.4",
+    "@types/node": "^17.0.42",
+    "js-style": "https://github.com/resolritter/js-style.git",
+    "typescript": "^4.7.3"
+  }
+}
